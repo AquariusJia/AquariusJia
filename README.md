@@ -7,7 +7,7 @@ I am now studying for my master degree at UCL, I finished my final year project 
 * **MA** in Scientific and Data Intensive Computing (2022)
 * **BS** in Applied Mathematics (2021)
 
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on finding a job as a machine learning resercher
 - 🌱 I’m currently learning deep learning and computer vision
