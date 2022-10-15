@@ -9,9 +9,9 @@ I am now studying for my master degree at UCL, I finished my final year project 
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on finding a job as a machine learning resercher
+- 🔭 I’m currently finding a job as a machine learning resercher
 - 🌱 I’m currently learning deep learning and computer vision
-- 🤔 I’m looking for any Phd opportunities about machine learning or computer science next year
+- 🤔 I’m looking for any phd opportunities about machine learning or computer science next year
 - 📫 How to reach me: jiangyuelinjob@163.com
 
 <!--
